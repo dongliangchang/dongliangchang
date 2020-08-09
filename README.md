@@ -33,7 +33,7 @@
   <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQGwjdlyJHeZEw/company-logo_200_200/0?e=2159024400&v=beta&t=afHoDcpLq0N9-V8S5aLQBteeKBG5qQ_N4z00ftV4e_k" alt="pytorch" width="40" height="40"/> 
   <img src="https://huggingface.co/favicon.ico" alt="huggingface" width="40" height="40"/></p>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dongliangchang&show_icons=true" alt="dongliangchang" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=PRIS-CV&show_icons=true" alt="PRIS-CV" />
 </p>
 
 <p align="center">
