@@ -16,7 +16,6 @@
 
 - 📫 How to reach me **changdongliang@bupt.edu.cn**
 
-- ⚡ Fun fact **AI over anything**
 
 
 
