@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Computer Vision, Deep Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/dongliangchang](https://github.com/dongliangchang)
+- 👨‍💻 All of my projects are available at [https://github.com/dongliangchang](https://github.com/dongliangchang) and [https://github.com/PRIS-CV](https://github.com/PRIS-CV)
 
 <!-- - 📝 I regulary write articles on [https://medium.com/@rhtsingh900](https://medium.com/@rhtsingh900) -->
 
