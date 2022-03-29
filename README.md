@@ -12,7 +12,7 @@
 
 <!-- - 📝 I regulary write articles on [https://medium.com/@rhtsingh900](https://medium.com/@rhtsingh900) -->
 
-- 💬 Ask me about **PyTorch, Python, AI**
+- 💬 Ask me about **Fine-Grained, Pytorch, AI**
 
 - 📫 How to reach me **changdongliang@bupt.edu.cn**
 
