@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dongliangchang" alt="dongliangchang" /> </p>
 
-- 🔭 I’m currently working on [BUPT](https://www.bupt.edu.cn/)
+- 🔭 I’m currently working on Tsinghua University.
 
 - 🌱 I’m currently learning **Computer Vision, Deep Learning**
 
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Fine-Grained, Pytorch, AI**
 
-- 📫 How to reach me **changdongliang@bupt.edu.cn**
+- 📫 How to reach me **changdongliang@pris-cv.cn**
 
 
 
