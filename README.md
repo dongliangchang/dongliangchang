@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Fine-Grained, Pytorch, AI**
 
-- 📫 How to reach me **changdongliang@pris-cv.cn**
+- 📫 How to reach me: **changdongliang@pris-cv.cn**
 
 
 
